@@ -1,0 +1,13 @@
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\bin\Debug\netcoreapp3.1\CSTask.exe
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\bin\Debug\netcoreapp3.1\CSTask.deps.json
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\bin\Debug\netcoreapp3.1\CSTask.runtimeconfig.json
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\bin\Debug\netcoreapp3.1\CSTask.runtimeconfig.dev.json
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\bin\Debug\netcoreapp3.1\CSTask.dll
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\bin\Debug\netcoreapp3.1\CSTask.pdb
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\obj\Debug\netcoreapp3.1\CSTask.csprojAssemblyReference.cache
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\obj\Debug\netcoreapp3.1\CSTask.AssemblyInfoInputs.cache
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\obj\Debug\netcoreapp3.1\CSTask.AssemblyInfo.cs
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\obj\Debug\netcoreapp3.1\CSTask.dll
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\obj\Debug\netcoreapp3.1\CSTask.pdb
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\willi\odrive\Google Drive\Programming Projects\+Multi Language Projects\RetainerDesk Task\C#\CSTask\CSTask\obj\Debug\netcoreapp3.1\CSTask.csproj.CopyComplete

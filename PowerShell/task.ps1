@@ -1,0 +1,1 @@
+(ConvertFrom-Json (Invoke-WebRequest "http://dummy.restapiexample.com/api/v1/employees").Content).data | Format-Table

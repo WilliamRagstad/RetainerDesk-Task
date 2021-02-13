@@ -1,0 +1,11 @@
+{
+  "name": "jstask",
+  "version": "1.0.0",
+  "description": "RetainerDesk task done in JavaScript",
+  "main": "index.js",
+  "author": "William Rågstad",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
