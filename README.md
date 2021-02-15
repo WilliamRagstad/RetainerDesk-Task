@@ -14,7 +14,7 @@ This is a small java project written using Eclipse. It is using an external Java
 Core program is in `Java\Task.java`
 
 ## Node.js
-This is one of the smaller (and pretties) implementations of the task, which is using the Node.js runtime. Meaning that the HTTP response can be natively parsed to a JavaScript object.
+This is one of the smaller (and prettiest) implementations of the task, which is using the Node.js runtime. Meaning that the HTTP response can be natively parsed to a JavaScript object.
 To support the fetch function, I added the `node-fetch` npm package.
 Run using `node Node.js\index.js`
 
