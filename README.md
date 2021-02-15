@@ -24,6 +24,8 @@ If you are running Windows, run using the provided `task.bat` file, or through t
 
 ## React
 
+Here I use React with the Babel pre-processor and the Tailwind CSS framework. core program is in `app.js`.
+
 Run using:
 
 ```
