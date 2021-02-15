@@ -22,5 +22,16 @@ Run using `node Node.js\index.js`
 This is the smallest implementation of this task, it is only one line with 110 characters.
 If you are running Windows, run using the provided `task.bat` file, or through the terminal `powershell .\PowerShell\task.ps1`.
 
+## React
+
+Run using:
+
+```
+cd React
+python -m http.server`
+```
+
+
+
 # Why five languages?
 Because I had too much spare-time during the weekend and saw this as a fun challenge!

@@ -1,0 +1,41 @@
+h1 {
+	color: #1a202c;
+	font-weight: 800;
+	font-size: 2.25em;
+}
+
+table {
+	width: 100%;
+	font-size: .9em;
+	text-align: left;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+thead th {
+	color: #1a202c;
+	padding-right: .5em;
+	padding-bottom: .5em;
+	padding-left: .5em;
+}
+
+tbody td {
+	padding: 5px;
+}
+
+tbody td.centered {
+	text-align: center;
+}
+
+.container {
+	max-width: 560px;
+}
+
+.profile {
+	width: 50px;
+	border-radius: 100%;
+}
+
+footer {
+	color: #aaa;
+}
